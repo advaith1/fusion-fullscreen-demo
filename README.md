@@ -1,6 +1,6 @@
 # Fusion Fullscreen Demo
 
-Demo of a Fusion generated app HTML5 with Fullscreen button
+Demo of a Fusion generated HTML5 app with Fullscreen button
 
 Made with https://github.com/motyar/fullscreen
   
